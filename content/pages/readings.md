@@ -115,7 +115,7 @@ Virtual Worlds and Their Role in Creative Work
 
 Schön, Donald. "The Structure of Reflection-in-Action." In _The Reflective Practitioner: How Professionals Think in Action_. Burlington, VT: Ashgate Publishing, 1995. ISBN: 1857423194.
 
-{{% resource_link "edda3c11-e55f-4363-b676-de24fb497dcf" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Klein, Gary. "The Power of Mental Simulation." In {{% resource_link "edda3c11-e55f-4363-b676-de24fb497dcf" "_Sources of Power: How People Make Decisions_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 0262611465.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/sources-power) Klein, Gary. "The Power of Mental Simulation." In [_Sources of Power: How People Make Decisions_](https://mitpress.mit.edu/books/sources-power). Cambridge, MA: MIT Press, 1999. ISBN: 0262611465.
 
 
 {{< tdclose >}}
